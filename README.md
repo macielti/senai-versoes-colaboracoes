@@ -1,2 +1,2 @@
-# Senail Versões Colaborações
+# Senai Versões Colaborações
 exemplo arquivo readme
